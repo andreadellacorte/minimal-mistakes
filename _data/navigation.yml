@@ -1,15 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Bible"
+    url: docs/quick-start-guide/
   
 # documentation links
 docs:
@@ -17,53 +9,20 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+  - title: Skills
     children:
-      - title: "Configuration"
+      - title: "Defensive"
         url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
+      - title: "Aggressive"
         url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
+      - title: "Utilities"
         url: /docs/navigation/
-      - title: "UI Text"
+      - title: "Worker"
         url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
+      - title: "Fare esperienza"
+  - title: Dungeon
     children:
-      - title: "Working with Posts"
+      - title: "Cavalcature pvp"
         url: /docs/posts/
-      - title: "Working with Pages"
+      - title: "Boss chests"
         url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
