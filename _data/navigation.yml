@@ -1,25 +1,34 @@
 # main links
 main:
-  - title: "Bible"
+  - title: "Introduzione"
+    url: docs/introduzione/
+  - title: "Quick Start Guide"
     url: docs/quick-start-guide/
-  
+  - title: "Regolamento"
+    url: docs/regolamento/
+  - title: "Contatti"
+    url: docs/contatti/
+
 # documentation links
 docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
+      - title: "Regolamento"
+        url: /docs/regolamento/
   - title: Skills
     children:
       - title: "Defensive"
-        url: /docs/configuration/
+        url: /docs/skills/defensive/
       - title: "Aggressive"
-        url: /docs/overriding-theme-defaults/
+        url: /docs/skills/aggressive/
       - title: "Utilities"
-        url: /docs/navigation/
+        url: /docs/skills/utilities/
       - title: "Worker"
-        url: /docs/ui-text/
+        url: /docs/skills/worker/
       - title: "Fare esperienza"
+        url: /docs/skills/fare-esperienza/
   - title: Dungeon
     children:
       - title: "Cavalcature pvp"
